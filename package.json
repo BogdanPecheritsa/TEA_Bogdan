@@ -1,0 +1,22 @@
+{
+  "name": "tea_bogdan",
+  "version": "1.0.0",
+  "description": "Derek Chisora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BogdanPecheritsa/TEA_Bogdan.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BogdanPecheritsa/TEA_Bogdan/issues"
+  },
+  "homepage": "https://github.com/BogdanPecheritsa/TEA_Bogdan#readme"
+}
